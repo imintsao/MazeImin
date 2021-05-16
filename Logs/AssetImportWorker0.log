@@ -1,0 +1,1090 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/imintsao/Documents/GitHub/iminBranchMac/MazeImin/MazeImin
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50449
+Successfully changed project path to: /Users/imintsao/Documents/GitHub/iminBranchMac/MazeImin/MazeImin
+/Users/imintsao/Documents/GitHub/iminBranchMac/MazeImin/MazeImin
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 18.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.5f1 (8095aa901b9b)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/imintsao/Documents/GitHub/iminBranchMac/MazeImin/MazeImin/Assets
+GfxDevice: creating device client; threaded=0
+2021-05-16 14:09:50.335 Unity[2059:40533] DELL U2518D preferred device: AMD Radeon Pro 555X (high power)
+2021-05-16 14:09:50.335 Unity[2059:40533] Metal devices available: 2
+2021-05-16 14:09:50.335 Unity[2059:40533] 0: AMD Radeon Pro 555X (high power)
+2021-05-16 14:09:50.335 Unity[2059:40533] 1: Intel(R) UHD Graphics 630 (low power)
+2021-05-16 14:09:50.335 Unity[2059:40533] Using device AMD Radeon Pro 555X (high power)
+Initializing Metal device caps: AMD Radeon Pro 555X
+Initialize mono
+Mono path[0] = '/Applications/Unity/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56059
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000574 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 18.94 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.541 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000434 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.839 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.8 MB.
+System memory in use after: 108.8 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 2.320974 ms (FindLiveObjects: 0.213413 ms CreateObjectMapping: 0.075083 ms MarkObjects: 1.936934 ms  DeleteObjects: 0.093085 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts
+  artifactKey: Guid(3e23894e3771b4ad0b9a549f38ae73bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(3e23894e3771b4ad0b9a549f38ae73bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75a94f0c7b531018e7eb7d7f78650c4f') in 0.004819 seconds
+  Import took 0.008426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.408136 seconds.
+  path: Assets/Scripts/GameManagerImin.cs
+  artifactKey: Guid(be0bec243ad974e5ab90d97c5bf900c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameManagerImin.cs using Guid(be0bec243ad974e5ab90d97c5bf900c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b15f82cf9634dd704b191f3b9db1b1af') in 0.548036 seconds
+  Import took 0.549864 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000278 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.788 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.2 MB.
+System memory in use after: 113.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1561.
+Total: 1.788794 ms (FindLiveObjects: 0.252053 ms CreateObjectMapping: 0.028339 ms MarkObjects: 1.466824 ms  DeleteObjects: 0.040873 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000302 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.806 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.4 MB.
+System memory in use after: 113.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1564.
+Total: 2.343323 ms (FindLiveObjects: 0.188900 ms CreateObjectMapping: 0.056900 ms MarkObjects: 2.025138 ms  DeleteObjects: 0.070829 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 299.524384 seconds.
+  path: Assets/Scripts/MazeImin.cs
+  artifactKey: Guid(93e11d902a09e48eea5f2d6e736614be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MazeImin.cs using Guid(93e11d902a09e48eea5f2d6e736614be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54e44234b3cdb99c7f7f0eb565e710fb') in 0.005588 seconds
+  Import took 0.008197 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000255 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.872 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.7 MB.
+System memory in use after: 113.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1568.
+Total: 1.466549 ms (FindLiveObjects: 0.149191 ms CreateObjectMapping: 0.038080 ms MarkObjects: 1.229392 ms  DeleteObjects: 0.048664 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 132.252478 seconds.
+  path: Assets/MazeImin.prefab
+  artifactKey: Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeImin.prefab using Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '900da71042e0d1d91803ec8441835887') in 0.430579 seconds
+  Import took 0.432483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.269435 seconds.
+  path: Assets/ScriptsImin
+  artifactKey: Guid(3e23894e3771b4ad0b9a549f38ae73bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptsImin using Guid(3e23894e3771b4ad0b9a549f38ae73bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3449296b4ffa43fb52fc69bf6c75bf94') in 0.000643 seconds
+  Import took 0.002963 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000340 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.848 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.1 MB.
+System memory in use after: 118.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1571.
+Total: 1.944480 ms (FindLiveObjects: 0.177869 ms CreateObjectMapping: 0.047171 ms MarkObjects: 1.663479 ms  DeleteObjects: 0.054089 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.961036 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4856052512617ee48189cf1d7999900') in 0.004029 seconds
+  Import took 0.006584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.602781 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(d588e9280254043839fdfb2f38544777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(d588e9280254043839fdfb2f38544777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e74ad5209430b1ce1b6c411f1c02f1a9') in 0.001020 seconds
+  Import took 0.003027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.195339 seconds.
+  path: Assets/ScenesImin
+  artifactKey: Guid(d588e9280254043839fdfb2f38544777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScenesImin using Guid(d588e9280254043839fdfb2f38544777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baf0bebf3cd98ca51ed9a3715d07d772') in 0.001031 seconds
+  Import took 0.002954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.676844 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(3c3a1aa7529df4606a3f11d4a4a79426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(3c3a1aa7529df4606a3f11d4a4a79426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e279c69bb6dbd93832b53c92b8cfac96') in 0.000817 seconds
+  Import took 0.002654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.576229 seconds.
+  path: Assets/PrefabsImin
+  artifactKey: Guid(3c3a1aa7529df4606a3f11d4a4a79426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabsImin using Guid(3c3a1aa7529df4606a3f11d4a4a79426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd857309d1b805b5c1562ed520f75142c') in 0.001006 seconds
+  Import took 0.002787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 187.913650 seconds.
+  path: Assets/ScriptsImin/GameManagerImin.cs
+  artifactKey: Guid(be0bec243ad974e5ab90d97c5bf900c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptsImin/GameManagerImin.cs using Guid(be0bec243ad974e5ab90d97c5bf900c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa6354d790975e47f79fbed5aa354155') in 0.001532 seconds
+  Import took 0.003314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003143 seconds.
+  path: Assets/ScriptsImin/GameManagerImin.cs
+  artifactKey: Guid(be0bec243ad974e5ab90d97c5bf900c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptsImin/GameManagerImin.cs using Guid(be0bec243ad974e5ab90d97c5bf900c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa6354d790975e47f79fbed5aa354155') in 0.001599 seconds
+  Import took 0.003328 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000356 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.822 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.3 MB.
+System memory in use after: 118.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1574.
+Total: 1.507554 ms (FindLiveObjects: 0.147085 ms CreateObjectMapping: 0.034871 ms MarkObjects: 1.264468 ms  DeleteObjects: 0.060275 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 301.138782 seconds.
+  path: Assets/ScriptsImin/GameManagerImin.cs
+  artifactKey: Guid(be0bec243ad974e5ab90d97c5bf900c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptsImin/GameManagerImin.cs using Guid(be0bec243ad974e5ab90d97c5bf900c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53625981cc6de6d8f39ed05cf4039b71') in 0.003617 seconds
+  Import took 0.005431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000676 seconds.
+  path: Assets/ScriptsImin/GameManagerImin.cs
+  artifactKey: Guid(be0bec243ad974e5ab90d97c5bf900c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptsImin/GameManagerImin.cs using Guid(be0bec243ad974e5ab90d97c5bf900c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53625981cc6de6d8f39ed05cf4039b71') in 0.001582 seconds
+  Import took 0.003280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 304.142617 seconds.
+  path: Assets/PrefabsImin/MazeImin.prefab
+  artifactKey: Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabsImin/MazeImin.prefab using Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da6dac830e72494995e3c7a8783730d1') in 0.025434 seconds
+  Import took 0.027758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000914 seconds.
+  path: Assets/PrefabsImin/MazeImin.prefab
+  artifactKey: Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabsImin/MazeImin.prefab using Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da6dac830e72494995e3c7a8783730d1') in 0.003425 seconds
+  Import took 0.005074 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000647 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.808 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.5 MB.
+System memory in use after: 118.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1577.
+Total: 2.232510 ms (FindLiveObjects: 0.246495 ms CreateObjectMapping: 0.048279 ms MarkObjects: 1.863791 ms  DeleteObjects: 0.071545 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000283 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.816 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.6 MB.
+System memory in use after: 118.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1580.
+Total: 2.271275 ms (FindLiveObjects: 0.256066 ms CreateObjectMapping: 0.040627 ms MarkObjects: 1.873564 ms  DeleteObjects: 0.098709 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 363.812443 seconds.
+  path: Assets/ScriptsImin/GameManagerImin.cs
+  artifactKey: Guid(be0bec243ad974e5ab90d97c5bf900c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptsImin/GameManagerImin.cs using Guid(be0bec243ad974e5ab90d97c5bf900c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72554f764bfc176164d3756fb0c6790f') in 0.002881 seconds
+  Import took 0.004340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/ScriptsImin/GameManagerImin.cs
+  artifactKey: Guid(be0bec243ad974e5ab90d97c5bf900c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptsImin/GameManagerImin.cs using Guid(be0bec243ad974e5ab90d97c5bf900c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72554f764bfc176164d3756fb0c6790f') in 0.001140 seconds
+  Import took 0.003067 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000254 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.797 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.8 MB.
+System memory in use after: 118.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1582.
+Total: 1.949087 ms (FindLiveObjects: 0.190141 ms CreateObjectMapping: 0.056307 ms MarkObjects: 1.646115 ms  DeleteObjects: 0.054962 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000251 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.787 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.9 MB.
+System memory in use after: 119.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1586.
+Total: 2.322184 ms (FindLiveObjects: 0.239710 ms CreateObjectMapping: 0.067687 ms MarkObjects: 1.945538 ms  DeleteObjects: 0.067133 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000245 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.794 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.1 MB.
+System memory in use after: 119.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1589.
+Total: 1.884785 ms (FindLiveObjects: 0.164598 ms CreateObjectMapping: 0.054808 ms MarkObjects: 1.596444 ms  DeleteObjects: 0.067549 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000289 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.812 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.3 MB.
+System memory in use after: 119.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1592.
+Total: 1.780090 ms (FindLiveObjects: 0.155809 ms CreateObjectMapping: 0.040826 ms MarkObjects: 1.526684 ms  DeleteObjects: 0.055532 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 636.177661 seconds.
+  path: Assets/ScriptsImin/MazeCellImin.cs
+  artifactKey: Guid(f4fef00ec37b243729f507d0183f4cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptsImin/MazeCellImin.cs using Guid(f4fef00ec37b243729f507d0183f4cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0275b6fe39e45e74f37b18ca192186d4') in 0.004263 seconds
+  Import took 0.006026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 705.362835 seconds.
+  path: Assets/ScriptsImin/MazeImin.cs
+  artifactKey: Guid(93e11d902a09e48eea5f2d6e736614be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptsImin/MazeImin.cs using Guid(93e11d902a09e48eea5f2d6e736614be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d4a5083e9fd461de9062c330168de99') in 0.001586 seconds
+  Import took 0.003422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/ScriptsImin/MazeImin.cs
+  artifactKey: Guid(93e11d902a09e48eea5f2d6e736614be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptsImin/MazeImin.cs using Guid(93e11d902a09e48eea5f2d6e736614be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d4a5083e9fd461de9062c330168de99') in 0.001638 seconds
+  Import took 0.003406 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000289 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.795 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.5 MB.
+System memory in use after: 119.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1596.
+Total: 1.960798 ms (FindLiveObjects: 0.215729 ms CreateObjectMapping: 0.048324 ms MarkObjects: 1.632678 ms  DeleteObjects: 0.062524 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.793194 seconds.
+  path: Assets/ScriptsImin/MazeImin.cs
+  artifactKey: Guid(93e11d902a09e48eea5f2d6e736614be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptsImin/MazeImin.cs using Guid(93e11d902a09e48eea5f2d6e736614be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d40ee85e516470ff6a14ece07e30368') in 0.003678 seconds
+  Import took 0.005870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.936774 seconds.
+  path: Assets/Maze CellImin.prefab
+  artifactKey: Guid(7ac48099a7b024120bdffb29a5306f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maze CellImin.prefab using Guid(7ac48099a7b024120bdffb29a5306f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ef3ab8b3025fa5a15a6aa8435a7667d') in 0.088658 seconds
+  Import took 0.090548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001466 seconds.
+  path: Assets/Maze CellImin.prefab
+  artifactKey: Guid(7ac48099a7b024120bdffb29a5306f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Maze CellImin.prefab using Guid(7ac48099a7b024120bdffb29a5306f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ef3ab8b3025fa5a15a6aa8435a7667d') in 0.007701 seconds
+  Import took 0.009506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.037032 seconds.
+  path: Assets/PrefabsImin/MazeImin.prefab
+  artifactKey: Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabsImin/MazeImin.prefab using Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfcdb8cd76c8c21123421b4910138bd8') in 0.003471 seconds
+  Import took 0.005585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.374404 seconds.
+  path: Assets/PrefabsImin/MazeImin.prefab
+  artifactKey: Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabsImin/MazeImin.prefab using Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af20acd8bc289fed6f83bff6c80f4057') in 0.003524 seconds
+  Import took 0.005647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010304 seconds.
+  path: Assets/PrefabsImin/MazeImin.prefab
+  artifactKey: Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabsImin/MazeImin.prefab using Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af20acd8bc289fed6f83bff6c80f4057') in 0.003947 seconds
+  Import took 0.006068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.884427 seconds.
+  path: Assets/PrefabsImin/MazeImin.prefab
+  artifactKey: Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabsImin/MazeImin.prefab using Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '098e7553ab47f8bb37cb6ceb6d496652') in 0.003940 seconds
+  Import took 0.006038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009820 seconds.
+  path: Assets/PrefabsImin/MazeImin.prefab
+  artifactKey: Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabsImin/MazeImin.prefab using Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '098e7553ab47f8bb37cb6ceb6d496652') in 0.003993 seconds
+  Import took 0.006399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.793229 seconds.
+  path: Assets/PrefabsImin/MazeImin.prefab
+  artifactKey: Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabsImin/MazeImin.prefab using Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4279c4d5d13d9cf0aab62fc282eaa9f9') in 0.003425 seconds
+  Import took 0.005493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009955 seconds.
+  path: Assets/PrefabsImin/MazeImin.prefab
+  artifactKey: Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabsImin/MazeImin.prefab using Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4279c4d5d13d9cf0aab62fc282eaa9f9') in 0.004099 seconds
+  Import took 0.006493 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000398 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.802 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.2 MB.
+System memory in use after: 123.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1607.
+Total: 1.491737 ms (FindLiveObjects: 0.150041 ms CreateObjectMapping: 0.037550 ms MarkObjects: 1.252469 ms  DeleteObjects: 0.050551 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 692.711879 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(0e9e7e4e87991498299c4e4f625df6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(0e9e7e4e87991498299c4e4f625df6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ecd290acb5d41c2a29af708738a94b0') in 0.003500 seconds
+  Import took 0.005848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.517391 seconds.
+  path: Assets/Scripts/MazeCell.cs
+  artifactKey: Guid(ed5f8bc05df4a4ad3af67b96d059209f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MazeCell.cs using Guid(ed5f8bc05df4a4ad3af67b96d059209f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ed3f3b5a8d5f3c3fcc898e6d5bb83c8') in 0.001454 seconds
+  Import took 0.003435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.163628 seconds.
+  path: Assets/Scripts/Maze.cs
+  artifactKey: Guid(1592517cf81484424a60f86dfcafc7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Maze.cs using Guid(1592517cf81484424a60f86dfcafc7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e2a2df26b8c240d56e410a4597be615') in 0.001628 seconds
+  Import took 0.003604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.871422 seconds.
+  path: Assets/MazeOfficalPackTwo
+  artifactKey: Guid(32c19376e3b5f4a47b349c8a1504cc97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeOfficalPackTwo using Guid(32c19376e3b5f4a47b349c8a1504cc97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bcf5374bee30b2523841e5ed6b24045') in 0.001366 seconds
+  Import took 0.003620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.725920 seconds.
+  path: Assets/Scene.unity
+  artifactKey: Guid(bee80beccdfe4447d99731f5b87b2e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene.unity using Guid(bee80beccdfe4447d99731f5b87b2e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c3200558a6ac36c67f1257193590bb7') in 0.009749 seconds
+  Import took 0.011667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000685 seconds.
+  path: Assets/Scene.unity
+  artifactKey: Guid(bee80beccdfe4447d99731f5b87b2e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene.unity using Guid(bee80beccdfe4447d99731f5b87b2e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c3200558a6ac36c67f1257193590bb7') in 0.001030 seconds
+  Import took 0.002798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.318836 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(d0f55879883204a5dbb6518e02fd3eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(d0f55879883204a5dbb6518e02fd3eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '429ca6fa5cf655e9d02461a300f5a20a') in 0.001024 seconds
+  Import took 0.003213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.076536 seconds.
+  path: Assets/Prefabs/Maze Cell.prefab
+  artifactKey: Guid(8cc5710f710a24360a566370d7049cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze Cell.prefab using Guid(8cc5710f710a24360a566370d7049cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75a5d8b6645e00930faac82d58abe146') in 0.252996 seconds
+  Import took 0.254999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Prefabs/Maze.prefab
+  artifactKey: Guid(a2395bb8a91944f21b621f2614d6db99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze.prefab using Guid(a2395bb8a91944f21b621f2614d6db99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b76509c8b4f4497a65b45737635d3716') in 0.002520 seconds
+  Import took 0.003902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 187.852705 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(c20ef4230437d49a58d6ce72f2b1a876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(c20ef4230437d49a58d6ce72f2b1a876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c42d5c07f99e359a06e745d441b3a319') in 0.001047 seconds
+  Import took 0.003334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.643039 seconds.
+  path: Assets/Scripts/MazeCellEdge.cs
+  artifactKey: Guid(3b8c8b678d8fb4f4da0ea193df7c9175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MazeCellEdge.cs using Guid(3b8c8b678d8fb4f4da0ea193df7c9175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b61f5fca9518d8f727535781e6507a31') in 0.001591 seconds
+  Import took 0.003523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.667369 seconds.
+  path: Assets/Scripts/MazeDirection.cs
+  artifactKey: Guid(3a61f0d747adf4d4babab5ac3d8340fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MazeDirection.cs using Guid(3a61f0d747adf4d4babab5ac3d8340fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dd08d29c4ebb9e650deed29d687b932') in 0.001487 seconds
+  Import took 0.003433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034907 seconds.
+  path: Assets/Scripts/MazeDirection.cs
+  artifactKey: Guid(3a61f0d747adf4d4babab5ac3d8340fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MazeDirection.cs using Guid(3a61f0d747adf4d4babab5ac3d8340fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dd08d29c4ebb9e650deed29d687b932') in 0.001325 seconds
+  Import took 0.003259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.792353 seconds.
+  path: Assets/Scripts/MazeDoor.cs
+  artifactKey: Guid(42dc7f2bd7ccf4bd0a6bf790eec76fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MazeDoor.cs using Guid(42dc7f2bd7ccf4bd0a6bf790eec76fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c4b97c251557af14550c46d65230a2d') in 0.001543 seconds
+  Import took 0.003413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001195 seconds.
+  path: Assets/Scripts/MazeDoor.cs
+  artifactKey: Guid(42dc7f2bd7ccf4bd0a6bf790eec76fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MazeDoor.cs using Guid(42dc7f2bd7ccf4bd0a6bf790eec76fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c4b97c251557af14550c46d65230a2d') in 0.001500 seconds
+  Import took 0.003295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.569877 seconds.
+  path: Assets/Scripts/MazePassage.cs
+  artifactKey: Guid(68f200ff7f0294ad6892454de6cdf02f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MazePassage.cs using Guid(68f200ff7f0294ad6892454de6cdf02f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64c33fbe17b359e9ecc8018e8fb8faad') in 0.001564 seconds
+  Import took 0.003489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001872 seconds.
+  path: Assets/Scripts/MazePassage.cs
+  artifactKey: Guid(68f200ff7f0294ad6892454de6cdf02f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MazePassage.cs using Guid(68f200ff7f0294ad6892454de6cdf02f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64c33fbe17b359e9ecc8018e8fb8faad') in 0.001491 seconds
+  Import took 0.003444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.190369 seconds.
+  path: Assets/MazeOfficalFianl
+  artifactKey: Guid(c3ce4d912f0b74450a7edadcc368f395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeOfficalFianl using Guid(c3ce4d912f0b74450a7edadcc368f395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26d0f129a33b5f3a4cc1c7350cb16988') in 0.001339 seconds
+  Import took 0.003383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.313735 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(671c8582714ea43bf92851a16f5b44df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(671c8582714ea43bf92851a16f5b44df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fd766751eb4b32a14e753d0207c8e01') in 0.001035 seconds
+  Import took 0.003063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.080093 seconds.
+  path: Assets/Materials/Door.mat
+  artifactKey: Guid(1ecb542eeae2b4accbd3330e3c71ee37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Door.mat using Guid(1ecb542eeae2b4accbd3330e3c71ee37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '882a9e4afd6c0b39052aceb050d05bbf') in 0.358194 seconds
+  Import took 0.360654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Materials/Painting 3.mat
+  artifactKey: Guid(d7cf90edfb2224dd39d1cccecf963e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Painting 3.mat using Guid(d7cf90edfb2224dd39d1cccecf963e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6a63f811f360b71b168a3e852792937') in 0.009945 seconds
+  Import took 0.011878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Materials/Floor 4.mat
+  artifactKey: Guid(1ab50c00f5e744989a090ed703902070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Floor 4.mat using Guid(1ab50c00f5e744989a090ed703902070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be865fd69eae775015f08cb3349c1a4c') in 0.008926 seconds
+  Import took 0.011006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Materials/Painting 2.mat
+  artifactKey: Guid(26cf7e2925e4a448d9ba85eba5470ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Painting 2.mat using Guid(26cf7e2925e4a448d9ba85eba5470ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5b48de30496e75de4b8d168b3ba19d4') in 0.008301 seconds
+  Import took 0.010176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Materials/Player.mat
+  artifactKey: Guid(ce0162f376b4340fdbbf0c3f0dd071c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Player.mat using Guid(ce0162f376b4340fdbbf0c3f0dd071c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a998f44a46675fd109466d8de1c0d612') in 0.010816 seconds
+  Import took 0.012610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Materials/Walls 4.mat
+  artifactKey: Guid(04a41fca2fffc4d48803bab4f7af8d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Walls 4.mat using Guid(04a41fca2fffc4d48803bab4f7af8d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8647864abba89065542e9311bf69a7e') in 0.008273 seconds
+  Import took 0.010089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Materials/Floor 3.mat
+  artifactKey: Guid(a482f5db0ed124d9ca47f89d651edd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Floor 3.mat using Guid(a482f5db0ed124d9ca47f89d651edd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4a181f40291b43b51956cd089e0c17a') in 0.009044 seconds
+  Import took 0.010780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Materials/Painting 1.mat
+  artifactKey: Guid(ecade22b6dca844b6b8efe6e149803ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Painting 1.mat using Guid(ecade22b6dca844b6b8efe6e149803ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c44d52bbdafa223219cb972e29c984f8') in 0.008439 seconds
+  Import took 0.010205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Materials/Floor 2.mat
+  artifactKey: Guid(7b1f582b53ed34fb8a895c21d34d6cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Floor 2.mat using Guid(7b1f582b53ed34fb8a895c21d34d6cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4908bad4dc9764d6a1f5504469a04680') in 0.010709 seconds
+  Import took 0.012450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Materials/Walls 1.mat
+  artifactKey: Guid(3c8277134dbc94613abf28d0ecb397f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Walls 1.mat using Guid(3c8277134dbc94613abf28d0ecb397f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3423f9a265348109576bd607c1a5c72') in 0.009237 seconds
+  Import took 0.011076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Materials/Walls 2.mat
+  artifactKey: Guid(c93005eefa3ee49c084cc0b4e1a3b85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Walls 2.mat using Guid(c93005eefa3ee49c084cc0b4e1a3b85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8310a5ad5701998ff75b8883643eb24f') in 0.008498 seconds
+  Import took 0.010362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Materials/Walls 3.mat
+  artifactKey: Guid(18b63f50e1eed41e28e31bbc33b5b467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Walls 3.mat using Guid(18b63f50e1eed41e28e31bbc33b5b467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98786d7473c6686403e416dffd780d34') in 0.008743 seconds
+  Import took 0.010586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Materials/Floor 1.mat
+  artifactKey: Guid(ca18ae0af3bfc4f6e8746c218fd13cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Floor 1.mat using Guid(ca18ae0af3bfc4f6e8746c218fd13cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6c223bd58e3b140e6cbdc31f29f3984') in 0.010194 seconds
+  Import took 0.011982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.384061 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(e22d4f9599c1b45a18da8408517e01e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(e22d4f9599c1b45a18da8408517e01e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37a7cf1c841a5a6ea0414849d2953fe8') in 0.001013 seconds
+  Import took 0.003186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.370375 seconds.
+  path: Assets/Prefabs/Maze Door.prefab
+  artifactKey: Guid(ddd2858d08f2e45f3b4b479b51caf822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze Door.prefab using Guid(ddd2858d08f2e45f3b4b479b51caf822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b471981c82a2eaa9616b86960da3c25') in 0.042304 seconds
+  Import took 0.044365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(4c6e2fb6da7fd4f5aa5c8463ebb46e79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(4c6e2fb6da7fd4f5aa5c8463ebb46e79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b1adb463b119146f35a0eeee29ca915') in 0.011534 seconds
+  Import took 0.013422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Prefabs/Maze Wall.prefab
+  artifactKey: Guid(2970089c471ef4c599835c1992954af5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze Wall.prefab using Guid(2970089c471ef4c599835c1992954af5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '644e6279c99f99b518858f3dfe8cd365') in 0.010149 seconds
+  Import took 0.012109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Prefabs/Maze Wall with Painting 3.prefab
+  artifactKey: Guid(f489487ab599f45b181d62c31aa46aa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze Wall with Painting 3.prefab using Guid(f489487ab599f45b181d62c31aa46aa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6493d1caa507e9eaf54e5ecd5e2c21c') in 0.009561 seconds
+  Import took 0.011555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Prefabs/Maze Passage.prefab
+  artifactKey: Guid(4db582300649e4e399ee4a2665f9e8e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze Passage.prefab using Guid(4db582300649e4e399ee4a2665f9e8e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1579e1686aad4ad533d8ab6ac4f07c0a') in 0.005118 seconds
+  Import took 0.007044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Prefabs/Maze Wall with Painting 2.prefab
+  artifactKey: Guid(d61d85f53c9da4244986893237736493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze Wall with Painting 2.prefab using Guid(d61d85f53c9da4244986893237736493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6b99585c8ea5d5252ac62c3ad1e6e9e') in 0.009077 seconds
+  Import took 0.011307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Prefabs/Maze Wall with Painting 1.prefab
+  artifactKey: Guid(057b7e231030049f9a3f3e033926ab42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Maze Wall with Painting 1.prefab using Guid(057b7e231030049f9a3f3e033926ab42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de36fa319203e95366f5045e43f010b8') in 0.008827 seconds
+  Import took 0.011101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.329765 seconds.
+  path: Assets/ScriptsImin/MazeCellImin.cs
+  artifactKey: Guid(25ce468d7c21f43d6a6a773cc53b9654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptsImin/MazeCellImin.cs using Guid(25ce468d7c21f43d6a6a773cc53b9654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d94a15085b9a12141db9941aece9b9f') in 0.003762 seconds
+  Import took 0.006008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.998620 seconds.
+  path: Assets/ScriptsImin/GameManagerImin.cs
+  artifactKey: Guid(be0bec243ad974e5ab90d97c5bf900c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScriptsImin/GameManagerImin.cs using Guid(be0bec243ad974e5ab90d97c5bf900c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '952a4a5635901c9e86b4dffdf33bb5f2') in 0.003450 seconds
+  Import took 0.005604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.339181 seconds.
+  path: Assets/MazeOfficalFianl/Scripts/IntVector2.cs
+  artifactKey: Guid(3b94f976497a64f8cbca58903717c6d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeOfficalFianl/Scripts/IntVector2.cs using Guid(3b94f976497a64f8cbca58903717c6d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '524bb4f9fe57c2a66ebc087f434c19ba') in 0.003881 seconds
+  Import took 0.005937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.379786 seconds.
+  path: Assets/MazeOfficalFianl/Scripts/Player.cs
+  artifactKey: Guid(3da3d8ef3655a420ea0f17b69015d33f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeOfficalFianl/Scripts/Player.cs using Guid(3da3d8ef3655a420ea0f17b69015d33f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc0428ed335d9e7eefb8643802c1c2cf') in 0.003992 seconds
+  Import took 0.006014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17489.636232 seconds.
+  path: Assets/MazeOfficalPackTwo/Scripts/GameManager.cs
+  artifactKey: Guid(cae0fcacd7d8c464bb488d4784e2d893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeOfficalPackTwo/Scripts/GameManager.cs using Guid(cae0fcacd7d8c464bb488d4784e2d893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceefecc45cbf3ffa22f1a56be528ae0d') in 0.009715 seconds
+  Import took 0.023976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.084195 seconds.
+  path: Assets/MazeOfficalPackTwo/Scripts/GameManager.cs
+  artifactKey: Guid(cae0fcacd7d8c464bb488d4784e2d893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeOfficalPackTwo/Scripts/GameManager.cs using Guid(cae0fcacd7d8c464bb488d4784e2d893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd3b5655e1e8d9c31a8250c54736309e') in 0.003816 seconds
+  Import took 0.006363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.905162 seconds.
+  path: Assets/MazeOfficalPackTwo/Prefabs/Maze.prefab
+  artifactKey: Guid(a2395bb8a91944f21b621f2614d6db99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeOfficalPackTwo/Prefabs/Maze.prefab using Guid(a2395bb8a91944f21b621f2614d6db99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97e65d27dac142d93a8e237d203be28c') in 0.012745 seconds
+  Import took 0.014812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.519538 seconds.
+  path: Assets/MazeOfficalPackTwo/Scripts/MazeCell.cs
+  artifactKey: Guid(ed5f8bc05df4a4ad3af67b96d059209f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeOfficalPackTwo/Scripts/MazeCell.cs using Guid(ed5f8bc05df4a4ad3af67b96d059209f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ed5ce7bf7651b1160b83c1494ccde9d') in 0.004317 seconds
+  Import took 0.006653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.940655 seconds.
+  path: Assets/MazeOfficalPackTwo/Scripts/Maze.cs
+  artifactKey: Guid(1592517cf81484424a60f86dfcafc7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MazeOfficalPackTwo/Scripts/Maze.cs using Guid(1592517cf81484424a60f86dfcafc7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cd41e7705cde758778f6647e711b82e') in 0.003814 seconds
+  Import took 0.005921 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000378 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.895 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.7 MB.
+System memory in use after: 128.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1645.
+Total: 2.475716 ms (FindLiveObjects: 0.223109 ms CreateObjectMapping: 0.042398 ms MarkObjects: 2.091841 ms  DeleteObjects: 0.116992 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1365.783053 seconds.
+  path: Assets/PrefabsImin/MazeImin.prefab
+  artifactKey: Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabsImin/MazeImin.prefab using Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fe2ffc46030f5ce78be31c1cd6fee58') in 0.029014 seconds
+  Import took 0.030957 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000362 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.831 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.9 MB.
+System memory in use after: 128.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1648.
+Total: 1.625561 ms (FindLiveObjects: 0.153328 ms CreateObjectMapping: 0.049233 ms MarkObjects: 1.368744 ms  DeleteObjects: 0.052975 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000356 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.823 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.0 MB.
+System memory in use after: 129.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1651.
+Total: 1.667579 ms (FindLiveObjects: 0.166996 ms CreateObjectMapping: 0.042512 ms MarkObjects: 1.401797 ms  DeleteObjects: 0.054824 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 609.249152 seconds.
+  path: Assets/PrefabsImin/MazeImin.prefab
+  artifactKey: Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabsImin/MazeImin.prefab using Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35ec4c4cabb9fda3f204687e3e567d5b') in 0.029585 seconds
+  Import took 0.032193 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000346 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.829 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.2 MB.
+System memory in use after: 129.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1654.
+Total: 2.012607 ms (FindLiveObjects: 0.194764 ms CreateObjectMapping: 0.049257 ms MarkObjects: 1.711749 ms  DeleteObjects: 0.055009 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.363008 seconds.
+  path: Assets/PrefabsImin/MazeImin.prefab
+  artifactKey: Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PrefabsImin/MazeImin.prefab using Guid(29b7149fb5a8b44ba84e0d714a991a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b426db232b155746f3ac5f9d27432af8') in 0.032618 seconds
+  Import took 0.034640 seconds .
+
